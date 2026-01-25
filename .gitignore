@@ -1,0 +1,12 @@
+.idea
+coverage.out
+.DS_Store
+vendor/
+bin/
+tmp/
+*.exe
+*.test
+.env
+db-data/
+logs/
+.vscode/
