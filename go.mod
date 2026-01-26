@@ -4,7 +4,7 @@ go 1.25.4
 
 
 require (
-	github.com/ansufw/celeritas v0.0.3
+	github.com/ansufw/celeritas v0.0.4
 	github.com/go-chi/chi/v5 v5.2.4
 	github.com/upper/db/v4 v4.10.0
 )
