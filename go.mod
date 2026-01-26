@@ -2,10 +2,9 @@ module github.com/ansufw/celeritas-boilerplate
 
 go 1.25.4
 
-replace github.com/ansufw/celeritas => ../celeritas
 
 require (
-	github.com/ansufw/celeritas v0.0.0-00010101000000-000000000000
+	github.com/ansufw/celeritas v0.0.3
 	github.com/go-chi/chi/v5 v5.2.4
 	github.com/upper/db/v4 v4.10.0
 )
