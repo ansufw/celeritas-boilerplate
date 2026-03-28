@@ -1,7 +1,8 @@
-module github.com/ansufw/celeritas-boilerplate
+module boilerplate
 
 go 1.25.4
 
+replace github.com/ansufw/celeritas => ../celeritas
 
 require (
 	github.com/ansufw/celeritas v0.0.4
